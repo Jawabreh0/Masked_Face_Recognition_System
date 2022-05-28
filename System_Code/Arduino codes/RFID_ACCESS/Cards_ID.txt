@@ -1,0 +1,18 @@
+BLUE NFC 1 -- (Big Tape)Card UID: 50 0E 5A 1B
+BLUE NFC 2-- (cuted tape)Card UID: F3 F3 94 0D
+BLUE NFC 3-- (small tape)Card UID: F3 F4 9A 0D
+
+ticket A-- Card UID: 53 F5 BD 24 30 00 01
+ticket B-- Card UID: 53 44 BF 24 30 00 01
+ticket C-- Card UID:04 3C 9E 02 70 71 80
+ticket D-- Card UID: 04 30 9E 02 70 71 80
+ticket E-- Card UID: 04 38 9E 02 70 71 80
+ticket F-- Card UID: 04 34 9E 02 70 71 80
+ticket G-- Card UID: 04 2B 9E 02 70 71 80
+
+WHITE CARD --Card UID: 13 CB 63 A7
+
+
+
+
+
